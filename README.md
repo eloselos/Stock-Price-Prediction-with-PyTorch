@@ -51,21 +51,6 @@ stock-prediction/
 └── requirements.txt
 ```
 
-A larger GitHub submission may additionally use:
-
-```text
-stock-prediction/
-├── data/
-├── notebooks/
-├── results/
-├── src/
-├── stock_prediction_pytorch_complete.ipynb
-├── README.md
-└── requirements.txt
-```
-
-The core project does not require a large downloaded data file because the notebook obtains the historical data from Yahoo Finance at runtime.
-
 ## Requirements
 
 Python 3.10+ is recommended.
